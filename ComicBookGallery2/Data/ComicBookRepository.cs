@@ -58,7 +58,7 @@ namespace ComicBookGallery2.Data
                 Favorite = false
             }
         };
-
+        
         public ComicBook GetComicBook(int id)
         {
             ComicBook comicBookToReturn = null;
